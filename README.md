@@ -1,7 +1,7 @@
 ## Digital Marketing Performance Auditor
 
 ## Project Overview
-This interactive Streamlit application provides a self-service "Digital Marketing Performance Auditor" as a KPIs health-check and visalization tools for digital marketing campaign data. It allows marketing staff and analysts to perform rapid Exploratory Data Analysis (EDA) and visualize KPIs performance without writing code.
+This interactive Streamlit application provides a self-service "Digital Marketing Performance Auditor" as a KPIs health-check and visualization tools for digital marketing campaign data. It allows marketing staff and analysts to perform rapid Exploratory Data Analysis (EDA) and visualize KPIs performance without writing code.
 
 ## Features
 - **Dynamic File Upload**: Supports custom CSV campaign data.
