@@ -18,6 +18,7 @@ This interactive Streamlit application provides a self-service "Digital Marketin
 - **Seaborn & Matplotlib**: Advanced data visualization and plotting.
 
 ## How to Run
+[Live Demo](https://digital-marketing-performance-auditor-thuhakasumi.streamlit.app/)
 1. Clone this repository to your local machine.
 2. Ensure you have Python installed.
 3. Install the required libraries:
