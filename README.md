@@ -23,3 +23,4 @@ This interactive Streamlit application provides a self-service "Digital Marketin
 3. Install the required libraries:
    ```bash
    pip install -r requirements.txt
+4. Launch the app: python -m streamlit run app.py
